@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: HIMAWASI
 email: ""
-description: "Photo Journal"
+description: "Aplication Mobile"
 url: "http://sunbliss.github.io"
 baseurl: /photorama
 instagram_username: ""
@@ -13,7 +13,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   "photorama"
+  name:   "himawasi"
   avatar: avatar.png
   favicon: favicon.ico
   description: "Photo Journal"
